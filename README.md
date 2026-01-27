@@ -1,4 +1,4 @@
-# adonis garcia
+# Alfredo Leon Pumacallahui
 
 <div align="center">
   
@@ -73,32 +73,6 @@
 </table>
 
 </div>
-
----
-
-## 🏆 scholarships, awards, fellowships, & hackathon wins
-
-your average dominican student 🇩🇴 | [portfolio](https://www.adonisgarcia.com/)
-
-| # | achievement | award/prize | date |
-|---|-------------|-------------|------|
-| 17 | **Hispanic Scholarship Fund** | 💵 Scholarship | sep '25 |
-| 16 | **NYUAD Hackathon for Social Good** | 🥈 2nd Place + 👏 Audience Choice Award | apr '25 |
-| 15 | **Google x BASTA SWEP Tech Fellow** | 🎓 Google Fellowship Program | jan '25 |
-| 14 | **Last Mile Scholarship** | 💵 Scholarship | dec '24 |
-| 13 | **SHPE National Conference** | ✈️ GLASS Funded Attendance | nov '24 |
-| 12 | **National Supermarket Association Scholarship** | 💵 Scholarship | oct '24 |
-| 11 | **Hispanic Scholarship Fund** | 💵 Scholarship | sep '24 |
-| 10 | **The Institute for Responsible Citizenship** | 🎓 DC Fellowship Program | jun '24 |
-| 9 | **Management Leadership for Tomorrow Career Prep** | 📈 Professional Development | jan '24 |
-| 8 | **NYU Sophomore of the Year** | ⭐ Academic Excellence | nov '23 |
-| 7 | **National Supermarket Association Scholarship** | 💵 Scholarship | oct '23 |
-| 6 | **Hispanic Scholarship Fund** | 💵 Scholarship | sep '23 |
-| 5 | **NYU GLASS Honors Program** | 💰 $30k Funding | aug '23 |
-| 4 | **NYU Scholar of the Year** | ⭐ Academic Excellence | may '23 |
-| 3 | **NYU Gunter Georgi Award** | 🎖️ Innovation in Engineering Design | dec '22 |
-| 2 | **NYU Outstanding Innovator Award** | 🏅 1 of 230+ students | dec '22 |
-| 1 | **HEOP Scholar** | 🎓 Full Tuition | aug '22 |
 
 ---
 
