@@ -50,20 +50,6 @@
 </td>
 <td width="2%"></td>
 <td align="center" width="25%">
-<img src="assets/bofalogo.jpg" alt="Bank of America" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>bank of america</b><br/>
-<sub>software engineering intern</sub><br/>
-<sub>may 2025 - aug 2025</sub>
-</td>
-<td width="2%"></td>
-<td align="center" width="25%">
-<img src="assets/polydelta.jpg" alt="Polydelta AI" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>polydelta ai</b><br/>
-<sub>ml software engineer</sub><br/>
-<sub>jan 2024 - jun 2025</sub>
-</td>
-<td width="2%"></td>
-<td align="center" width="25%">
 <img src="assets/nyu.png" alt="NYU" width="120" height="120" style="object-fit: contain;"/><br/>
 <b>nyu tandon</b><br/>
 <sub>teaching assistant</sub><br/>
