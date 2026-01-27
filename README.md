@@ -42,16 +42,16 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <img src="assets/fox-school.jpg" alt="MissionML" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>missionml</b><br/>
+<b>Fox School</b><br/>
 <sub>Research Assistant</sub><br/>
 <sub>Aug 2025 - present</sub>
 </td>
 <td width="2%"></td>
-<td align="center" width="25%">
+<td align="center" width="50%">
 <img src="assets/HCI.png" alt="NYU" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>nyu tandon</b><br/>
+<b>HCI Lab</b><br/>
 <sub>Undergraduate Researcher</sub><br/>
 <sub>Dec 2025- present</sub>
 </td>
