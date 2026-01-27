@@ -4,15 +4,15 @@
   
 ### ml engineer | cs @ nyu | building ai for good
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredoleonpumacallahui/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adonisgarcia.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis.garcia@nyu.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adonis-garcia-git)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredo.leon.pumacallahui@temple.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alfredoleon25)
 
-![School](https://img.shields.io/badge/NYU_Tandon_School_of_Engineering-57068C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDNMMyA5bDkgNiA5LTYtOS02em0wIDEwbC03LTQuNjdWMTZsNyA0LjY3TDE5IDE2VjguMzNMMTIgMTN6Ii8+PC9zdmc+&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-4.0-success?style=flat)
-![Location](https://img.shields.io/badge/Location-New%20York%2C%20NY-blue?style=flat&logo=google-maps)
+![School](https://img.shields.io/badge/Temple University-57068C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDNMMyA5bDkgNiA5LTYtOS02em0wIDEwbC03LTQuNjdWMTZsNyA0LjY3TDE5IDE2VjguMzNMMTIgMTN6Ii8+PC9zdmc+&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-3.63-success?style=flat)
+![Location](https://img.shields.io/badge/Location-Philadelphia%2C%20PA-blue?style=flat&logo=google-maps)
 
 </div>
 
@@ -117,9 +117,9 @@
 
 **open to:** collaboration • mentorship • speaking • internships • post-grad opportunities • starting a company
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adonis-garcia-swe)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredoleonpumacallahui/)
 [![Instagram](https://img.shields.io/badge/Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis.garcia@nyu.edu)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredo.leon.pumacallahui@temple.edu)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adonisgarcia.com)
 
 ### *"from the bronx to the world. writing code that would make my mother proud."*
