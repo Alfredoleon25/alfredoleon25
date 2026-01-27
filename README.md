@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredo.leon.pumacallahui@temple.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alfredoleon25)
 
-![School](https://img.shields.io/badge/Temple University-57068C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDNMMyA5bDkgNiA5LTYtOS02em0wIDEwbC03LTQuNjdWMTZsNyA0LjY3TDE5IDE2VjguMzNMMTIgMTN6Ii8+PC9zdmc+&logoColor=white)
+![School](https://img.shields.io/badge/TempleUniversity-57068C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDNMMyA5bDkgNiA5LTYtOS02em0wIDEwbC03LTQuNjdWMTZsNyA0LjY3TDE5IDE2VjguMzNMMTIgMTN6Ii8+PC9zdmc+&logoColor=white)
 ![GPA](https://img.shields.io/badge/GPA-3.63-success?style=flat)
 ![Location](https://img.shields.io/badge/Location-Philadelphia%2C%20PA-blue?style=flat&logo=google-maps)
 
