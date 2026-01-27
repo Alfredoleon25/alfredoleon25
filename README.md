@@ -64,32 +64,31 @@
 
 ## featured projects
 
-### [q-quake](https://github.com/elucidator8918/NYUAD)
-> quantum + ai earthquake detection system  
-> `quantum computing` `pytorch` `apis` • 2nd place @ nyuad hackathon
+### [health risk prediction app](https://github.com/alfredoleon25/Health-Risk-Prediction-App-)
+> ml-powered system for predicting user health risk patterns  
+> `python` `machine learning` `data science` `jupyter` • ~90% prediction accuracy
 
-### [the e-glove](https://github.com/adonis-garcia-git/e-glove)
-> computer vision wireless mouse  
-> `opencv` `arduino` `python` • won 2 innovation awards
+### [StudyPal](https://github.com/alfredoleon25/StudyPal)
+> collaborative study and idea-sharing platform  
+> `typescript` `web development` • built for streamlined academic workflows
 
-### [portfolio website](https://adonisgarcia.com)
-> personal portfolio showcasing projects and experiences  
-> `html` `css` `javascript` `tailwindcss` • fully responsive design
+### [portfolio website](https://github.com/alfredoleon25/portafolio)
+> personal portfolio showcasing projects and experience  
+> `html` `css` `javascript` • clean, responsive design
 
-### course q&a rag
-> students ask, ai answers from course docs  
-> `next.js` `pinecone` `fastapi` • analytics dashboard for professors
+### [smart accounting dashboard](https://github.com/alfredoleon25/Smart-Accounting-Dashboard)
+> financial data import and visualization platform for businesses  
+> `python` `data analysis` `dashboards` • simplifies complex financial insights
 
-### cs learning platform
-> personalized llm tutor teaching through your interests  
-> `react` `claude api` `postgresql` • teaches gaming fans cs through game design
-
+### [storm path visualizer](https://github.com/alfredoleon25/storm-path-visualizer)
+> real-time hurricane tracking and storm path visualization tool  
+> `python` `tkinter` `data pipelines` • integrates 10+ public datasets
 ---
 
 ## quick facts
 
 - Obsessed with building things that matter
-- Gaming & chess
+- Gaming & chess enthusiast
 - Multilingual, working toward three languages
 - Powered by ambition and my mom’s sacrifices
 
