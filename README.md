@@ -43,17 +43,17 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="assets/missionmllogo.jpg" alt="MissionML" width="120" height="120" style="object-fit: contain;"/><br/>
+<img src="assets/fox-school.jpg" alt="MissionML" width="120" height="120" style="object-fit: contain;"/><br/>
 <b>missionml</b><br/>
-<sub>ml software engineer</sub><br/>
-<sub>sep 2025 - present</sub>
+<sub>Research Assistant</sub><br/>
+<sub>Aug 2025 - present</sub>
 </td>
 <td width="2%"></td>
 <td align="center" width="25%">
-<img src="assets/nyu.png" alt="NYU" width="120" height="120" style="object-fit: contain;"/><br/>
+<img src="assets/HCI.png" alt="NYU" width="120" height="120" style="object-fit: contain;"/><br/>
 <b>nyu tandon</b><br/>
-<sub>teaching assistant</sub><br/>
-<sub>jul 2023 - may 2024</sub>
+<sub>Undergraduate Researcher</sub><br/>
+<sub>Dec 2025- present</sub>
 </td>
 </tr>
 </table>
