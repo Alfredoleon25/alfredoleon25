@@ -88,12 +88,10 @@
 
 ## quick facts
 
-- first heop student at tandon to maintain 4.0 past freshman year
-- backpacked 6 european countries in 10 days
-- studied abroad in abu dhabi (2x) & seoul
-- gaming & gym enthusiast
-- mentor to 50+ underrepresented students
-- powered by desire to make cool shit and my mom's sacrifices
+- Obsessed with building things that matter
+- Gaming & chess
+- Multilingual, working toward three languages
+- Powered by ambition and my mom’s sacrifices
 
 ---
 
