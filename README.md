@@ -43,8 +43,8 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="assets/fox-school.jpg" alt="MissionML" width="120" height="120" style="object-fit: contain;"/><br/>
-<b>Fox School</b><br/>
+<img src="assets/temple-logo.png" alt="MissionML" width="120" height="120" style="object-fit: contain;"/><br/>
+<b>Fox School of Business</b><br/>
 <sub>Research Assistant</sub><br/>
 <sub>Aug 2025 - present</sub>
 </td>
